@@ -1,0 +1,11 @@
+opencv-python
+scikit-learn
+flask
+python-multipart
+gunicorn
+werkzeug
+gevent
+asyncio
+Flask[async]
+requests
+aiohttp
